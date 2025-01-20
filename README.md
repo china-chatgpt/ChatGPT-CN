@@ -1,7 +1,7 @@
 # ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1）【2025年1月更新】
 
 > Update：2025/01/20 <br/>
-> Author：china-chatgpt
+> Author：china-chatgpt 
 
 全面讲解 **ChatGPT 中文版** 的国内使用方法，为用户推荐**无需翻墙的镜像网站**
 
